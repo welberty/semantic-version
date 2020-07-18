@@ -2,4 +2,4 @@
 
 Adicionando semantic release
 
-Feature 1
+Feature 1.1
